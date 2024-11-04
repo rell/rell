@@ -2,7 +2,7 @@
   
 ### Research Assistant @nasa with GESTAR II
 
-Computer Science @ University of Maryland, College Park.
+Computer Science @ University of Maryland, College Park
 
 </div>
 
