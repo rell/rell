@@ -4,7 +4,7 @@
 
 Computer Science @ University of Maryland, College Park
 
-</div>
-
 ---
+(3x) NASA-SWE Intern | Fromer Junior-EE
+</div>
 
